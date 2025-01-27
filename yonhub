@@ -53,3 +53,5 @@ Scripts:AddButton({
       		print("HOHO HUB (Loading...)")
   	end    
 })
+
+OrionLib:Init()
